@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI to manage your React Native project. The root cause is that the project is not properly linked to the necessary native modules. This can happen due to various reasons, such as incorrect installation of native dependencies, or misconfiguration of the project's build settings.  The error message is often cryptic and lacks specific guidance.
